@@ -16,7 +16,7 @@ import Experience from './components/experience-timeline/experience.component';
 const App = () =>  {
   return (
     <div>
-      {/* <MyNavbar/> */}
+      <MyNavbar/>
       <MyCarousel/>
       <MyTitleMessage/>
 
