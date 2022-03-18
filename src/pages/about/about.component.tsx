@@ -56,7 +56,11 @@ const About = () => {
                                 <div>
                                     <a href="file:///Users/aya.abuallan/Downloads/anas_berrada_resume.pdf" target="_blank" rel="noopener noreferrer">
                                     <Button className="m-1 butt" variant="outline-primary">
-                                        My Resume
+                                        <body>
+                                            My Resume
+                                            <h1>PDF Example</h1>
+                                                <p>Open a PDF file <a href="/Users/anasberrada/Desktop/OneDrive/Anas Berrada after undergrad/Anas Berrada resume.pdf</a>.</p>
+                                        </body>
                                     </Button>
                                     </a>
                                 </div>
