@@ -27,9 +27,12 @@ const About = () => {
                             <Row className=" align-items-start p-2 my-details rounded flexbox">
                                 Hi there! I'm <strong>&nbsp;Anas</strong>
                                 <br />
-                                Lived in Germany, Morocco, and Canada. Mechanical engineering is my passion, prototyping to develop ideas into working realizations by overlapping disciplines and fading the lines between mechanical. electrical, and computer engineering.
-                                I have experience working in a small bike shop and Fortune 500 pharmaceuticals company, take a look at my work and resume below.
-                                <div id="deets">
+                                I am a fluently bilingual Mechanical Engineer with experience working with project managers and as a part of multidisciplined teams.
+                                During my internship terms, I presented my team progress in technical presentations, wrote technical documents to justify maintenance projects, and reviewed shop drawings. 
+                                At Sanofi Pasteur, the leading vaccine production company, my role had an emphasis on HVAC maintenance and design, using excel and VBA to analyse collected data and write reports on system failure trends. 
+                                During my term with Cheme, an engineering consulting company, I worked hands on in a fast-paced environment to complete demanding projects, allowing me to rapidly grow as a contributor to the team. 
+                                As for academics, I hold a 3.4CGPA with a 3.8GPA in modeling classes, and also have project experience working with CFD and FEA software, namely Star CCM+ and ANSYS Fluent.
+                                <div id="deets"
                                     <p><strong>EDUCATION</strong></p>
                                     York University Lassonde School of Engineering - Mechanical Engineering
                                     <br /> York University Schulich School of Business - Entrepreneurship Certificate<br />
