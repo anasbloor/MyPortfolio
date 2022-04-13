@@ -74,9 +74,9 @@ const Experience = () => {
                                     <Card.Body>
                                         <strong>Description:</strong> Reduced equipment unexpected downtime
                                         <hr />
-                                        <strong>Features:</strong>
+                                        <strong>Skills:</strong>
                                         <ul className="list-styles pt-1">
-                                        <li>Keeps track of your Todos</li>
+                                        <li>FMEA</li>
                                         <li>Powered by React and Material UI</li>
                                         <li>Respoisive Design</li>
                                         </ul>
