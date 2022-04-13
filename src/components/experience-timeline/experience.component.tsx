@@ -72,7 +72,7 @@ const Experience = () => {
 
                                     <Accordion.Collapse eventKey="0" className="text-left">
                                     <Card.Body>
-                                        <strong>Description:</strong> This is a Todo App created with React and Material UI that keeps a track of your Todos
+                                        <strong>Description:</strong> Reduced equipment unexpected downtime
                                         <hr />
                                         <strong>Features:</strong>
                                         <ul className="list-styles pt-1">
