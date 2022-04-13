@@ -55,7 +55,7 @@ const About = () => {
                                 </div>
                                 <div>
                                     <a href="#contact">
-                                    <button><a href='https://google.com'>This is a button</a></button>
+                                    <button><a href='https://www.youtube.com/watch?v=K8ma6T560Tc'>Video Resume</a></button>
                                     </a>
                                 </div>
                             </Row> 
