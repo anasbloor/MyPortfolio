@@ -32,7 +32,7 @@ const About = () => {
                                 At Sanofi Pasteur, the leading vaccine production company, my role had an emphasis on HVAC maintenance and design, using excel and VBA to analyse collected data and write reports on system failure trends. 
                                 During my term with Cheme, an engineering consulting company, I worked hands on in a fast-paced environment to complete demanding projects, allowing me to rapidly grow as a contributor to the team. 
                                 As for academics, I hold a 3.4CGPA with a 3.8GPA in modeling classes, and also have project experience working with CFD and FEA software, namely Star CCM+ and ANSYS Fluent.
-                                <div id="deets"
+                                <div id="deets">
                                     <p><strong>EDUCATION</strong></p>
                                     York University Lassonde School of Engineering - Mechanical Engineering
                                     <br /> York University Schulich School of Business - Entrepreneurship Certificate<br />
@@ -53,17 +53,7 @@ const About = () => {
                                     </Button>
                                     </a>
                                 </div>
-                                <div>
-                                    <a href="file:///Users/aya.abuallan/Downloads/anas_berrada_resume.pdf" target="_blank" rel="noopener noreferrer">
-                                    <Button className="m-1 butt" variant="outline-primary">
-                                        <body>
-                                            My Resume
-                                            <h1>PDF Example</h1>
-                                                <p>Open a PDF file <a href="/Users/anasberrada/Desktop/OneDrive/Anas Berrada after undergrad/Anas Berrada resume.pdf</a>.</p>
-                                        </body>
-                                    </Button>
-                                    </a>
-                                </div>
+                                
                             </Row> 
                         </Col>
                     </Row>
