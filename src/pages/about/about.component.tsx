@@ -48,12 +48,18 @@ const About = () => {
                             <Row className="d-flex justify-content-end flex-wrap buttons" >
                                 <div>
                                     <a href="#contact">
-                                    <Button className="m-1 butt" variant="outline-primary" onclick="google.com">
-                                        Google!
+                                    <Button className="m-1 butt" variant="outline-primary">
+                                        Let's talk
                                     </Button>
                                     </a>
                                 </div>
-                                
+                                <div>
+                                    <a href="#contact">
+                                    <Button className="m-1 butt" variant="outline-primary">
+                                        Let's talk
+                                    </Button>
+                                    </a>
+                                </div>
                             </Row> 
                         </Col>
                     </Row>
