@@ -30,18 +30,18 @@ const Experience = () => {
                                     eventKey="0"
                                     className="p-2 text-center accordian-main"
                                     >
-                                    Process Engineering COOP
+                                    Process Engineer
                                     </Accordion.Toggle>
 
                                     <Accordion.Collapse eventKey="0" className="text-left">
                                     <Card.Body>
-                                        <strong>Description:</strong> This is a Todo App created with React and Material UI that keeps a track of your Todos
+                                        <strong>Description:</strong> Implemented and valiadated a new packaging line firmware 
                                         <hr />
-                                        <strong>Features:</strong>
+                                        <strong>Skills:</strong>
                                         <ul className="list-styles pt-1">
-                                        <li>Keeps track of your Todos</li>
-                                        <li>Powered by React and Material UI</li>
-                                        <li>Respoisive Design</li>
+                                        <li>Engineering TurnOver Package reporting</li>
+                                        <li>Communication with technical clients</li>
+                                        <li>Configure proprietary packaging line software</li>
                                         </ul>
                                         <hr />
                                         
@@ -57,7 +57,7 @@ const Experience = () => {
                         className="text-center"
                         text="Sanofi Pasteur - 12 months"
                         src={Sanofi}
-                        alt="Reliability Engineering COOP"
+                        alt="Reliability Engineering"
                     >
                         <div className="d-flex justify-content-between flex-column mt-1">
                             <Accordion>
@@ -76,9 +76,9 @@ const Experience = () => {
                                         <hr />
                                         <strong>Skills:</strong>
                                         <ul className="list-styles pt-1">
-                                        <li>FMEA</li>
-                                        <li>Powered by React and Material UI</li>
-                                        <li>Respoisive Design</li>
+                                        <li>Failure Modes and Effects Analysis</li>
+                                        <li>Reliability Centered Maintenance</li>
+                                        <li>Preventive Maintenance in GMP environment</li>
                                         </ul>
                                         <hr />
                                         
@@ -109,13 +109,13 @@ const Experience = () => {
 
                                     <Accordion.Collapse eventKey="0" className="text-left">
                                     <Card.Body>
-                                        <strong>Description:</strong> This is a Todo App created with React and Material UI that keeps a track of your Todos
+                                        <strong>Description:</strong> Aided first year student grasp calculus concepts
                                         <hr />
-                                        <strong>Features:</strong>
+                                        <strong>Skills:</strong>
                                         <ul className="list-styles pt-1">
-                                        <li>Keeps track of your Todos</li>
-                                        <li>Powered by React and Material UI</li>
-                                        <li>Respoisive Design</li>
+                                        <li>Methods of breaking down complex concepts</li>
+                                        <li>Redundant communiation methods to ensure understanding</li>
+                                        <li>Collaboration with professors in preparing material</li>
                                         </ul>
                                         <hr />
                                         
@@ -146,13 +146,13 @@ const Experience = () => {
 
                                     <Accordion.Collapse eventKey="0" className="text-left">
                                     <Card.Body>
-                                        <strong>Description:</strong> This is a Todo App created with React and Material UI that keeps a track of your Todos
+                                        <strong>Description:</strong> Grew from a junior to a senior mechanic while helping the shop triple in revenue over 3 years
                                         <hr />
-                                        <strong>Features:</strong>
+                                        <strong>Skills:</strong>
                                         <ul className="list-styles pt-1">
-                                        <li>Keeps track of your Todos</li>
-                                        <li>Powered by React and Material UI</li>
-                                        <li>Respoisive Design</li>
+                                        <li>Mechanical aptitude</li>
+                                        <li>Client facing communication</li>
+                                        <li>Coordinated with vendors and specialists</li>
                                         </ul>
                                         <hr />
                                     </Card.Body>
