@@ -48,7 +48,7 @@ const About = () => {
                             <Row className="d-flex justify-content-end flex-wrap buttons" >
                                 <div>
                                 <a href="#contact">
-                                    <button><a href='https://1drv.ms/b/s!Aufj6YK-I-1YhIgwGM7uYXJfZIqneQ?e=rv45u6'>PDF Resume</a></button>
+                                    <button><a href='https://1drv.ms/b/s!Aufj6YK-I-1YhIgwGM7uYXJfZIqneQ?e=cvo9oC'>PDF Resume</a></button>
                                     </a>
                                 </div>
                                 <div>
